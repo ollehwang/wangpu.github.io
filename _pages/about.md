@@ -45,12 +45,12 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💬 Presentations and Conferences
-- *2025.09*, **Oral Communications**, Evaluating the Functional Synergies of Urban Ecological Space and Public Space in High-Density Urban Environment, the 61st IFLA World Congress, Nantes, France. 
+- *2025.09*,  **Oral Communications**, Evaluating the Functional Synergies of Urban Ecological Space and Public Space in High-Density Urban Environment, the 61st IFLA World Congress, Nantes, France. 
 
 # 🎖 Honors and Awards
-- *2023.10* ASLA Student Honor Award (2023), Analysis and Planning Category — Lead Author (1/3)
-- *2023.10* (top 30%) Second Prize of Academic Excellence Scholarship
-- *2022.10* (top 10%) First Prize of Academic Excellence Scholarship
+- *2023.10*  ASLA Student Honor Award, Analysis and Planning Category — Lead Author (1/3)
+- *2023.10*  (top 30%) Second Prize of Academic Excellence Scholarship
+- *2022.10*  (top 10%) First Prize of Academic Excellence Scholarship
 
 # 💻 Skills and Languages
 - Software: ArcGIS, ENVI, Adobe (Photoshop, InDesign, Premiere, Illustrator), Rhino, Auto-CAD, Civil3D
