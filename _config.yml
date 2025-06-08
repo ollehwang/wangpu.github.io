@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "WANG Pu's Academic Homepage"
-description              : "Personal website of John Doe, a PhD student at Soueast University in landscape architecture. "
+#description              : "Personal website of WANG Pu, a PhD student in landscape architecture at Soueast University . "
 repository               : "ollehwang/wangpu.github.io"
 google_scholar_stats_use_cdn : true
 
