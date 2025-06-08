@@ -21,53 +21,44 @@ redirect_from:
 
 I am a.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes  and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
 # 📖 Educations
-<table>
+<table class="edu-table">
   <tr>
-    <td>Southeast University | PhD Student in Landscape Architecture</td>
-    <td align="right">March, 2024-Expected 2027</td>
+    <td>Southeast University ｜ PhD Student in Landscape Architecture</td>
+    <td class="edu-right">March, 2024 – Expected 2027</td>
   </tr>
   <tr>
-    <td>Southeast University | Master in Landscape Architecture (transferred to PhD program)</td>
-    <td align="right">September, 2022-January, 2024</td>
+    <td>Southeast University ｜ Master in Landscape Architecture (transferred to PhD program)</td>
+    <td class="edu-right">September, 2022 – January, 2024</td>
   </tr>
   <tr>
-    <td>Southeast University | B.Eng in Landscape Architecture</td>
-    <td align="right">September, 2017-June, 2022</td>
+    <td>Southeast University ｜ B.Eng in Landscape Architecture</td>
+    <td class="edu-right">September, 2017 – June, 2022</td>
   </tr>
 </table>
 
-- *March, 2024-Expected 2027*, PhD Student in Landscape Architecture, Southeast University. Nanjing, China. 
-- *September, 2022-January, 2024*, Master in Landscape Architecture (transferred to PhD program),  Southeast University. Nanjing, China.
-- *September, 2017-June, 2022*, B.Eng in Landscape Architecture,  Southeast University. Nanjing, China.
 
 # 📝 Publications 
+- **Wang, P.**, Xu, N. Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Area under Connectivity Oriented Approach（Accepted in ##Chinese Landscape Architecture##）
+- Xu, N., Zhang, X., & **Wang, P.** (2025). [Public Vitality-Driven Optimization of Urban Public Space Networks—A Case Study from Nanjing, China](https://doi.org/10.3390/smartcities8010018). Smart Cities, 8(1), 18. 
+- Xu, N., **Wang, P.**, Zhang, X. (2024). [Exploration on Integrated Landscape Approach for Park City Planning: A Digital Planning Method for the Coupled Development of Ecological Network and Public Space in Urban Built-up Areas](). City Planning Review, 48(12):27-37. (In Chinese)
+- Xu, N., & **Wang, P.** (2024). [Evolutionary Characteristics of Urban Public Space Accessibility for Vulnerable Groups from a Perspective of Temporal–Spatial Change: Evidence from Nanjing Old City, China](https://doi.org/10.3390/land13070998). Land, 13(7), 998.
+- Xu, N., Guan, K., & **Wang, P.** (2024). [Improving Access to Urban Parks Through Public Transit Optimization](https://doi.org/10.1016/j.foar.2023.12.011). Frontiers of Architectural Research, 13(3), 575-592.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💬 Presentations and Conferences
 - *2025.09*,  **Oral Communications**, Evaluating the Functional Synergies of Urban Ecological Space and Public Space in High-Density Urban Environment, the 61st IFLA World Congress, Nantes, France. 
 
+
 # 🎖 Honors and Awards
-- *2023.10*  ASLA Student Honor Award, Analysis and Planning Category — Lead Author (1/3)
+- *2023.10*  **ASLA Student Honor Award**, [Analysis and Planning Category](https://www.asla.org/2023studentawards/8324.html) — Lead Author (1/3)
 - *2023.10*  (top 30%) Second Prize of Academic Excellence Scholarship
 - *2022.10*  (top 10%) First Prize of Academic Excellence Scholarship
+
 
 # 💻 Skills and Languages
 - Software: ArcGIS, ENVI, Adobe (Photoshop, InDesign, Premiere, Illustrator), Rhino, Auto-CAD, Civil3D
