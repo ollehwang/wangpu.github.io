@@ -17,13 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+
+
+I am a.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
 # 📖 Educations
+<table>
+  <tr>
+    <td>Southeast University | PhD Student in Landscape Architecture</td>
+    <td align="right">March, 2024-Expected 2027</td>
+  </tr>
+  <tr>
+    <td>Southeast University | Master in Landscape Architecture (transferred to PhD program)</td>
+    <td align="right">September, 2022-January, 2024</td>
+  </tr>
+  <tr>
+    <td>Southeast University | B.Eng in Landscape Architecture</td>
+    <td align="right">September, 2017-June, 2022</td>
+  </tr>
+</table>
+
 - *March, 2024-Expected 2027*, PhD Student in Landscape Architecture, Southeast University. Nanjing, China. 
 - *September, 2022-January, 2024*, Master in Landscape Architecture (transferred to PhD program),  Southeast University. Nanjing, China.
 - *September, 2017-June, 2022*, B.Eng in Landscape Architecture,  Southeast University. Nanjing, China.
