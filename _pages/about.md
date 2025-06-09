@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-
 
 WANG Pu is a PhD student in Landscape Aechitecture at Southeast University. Her research interests include construction of urban ecological networks, urban vitality and the coupling mechnism of urban ecological space and public space.
 
@@ -41,7 +31,7 @@ WANG Pu is a PhD student in Landscape Aechitecture at Southeast University. Her 
 
 
 # 📝 Publications 
-- **Wang, P.**, Xu, N. Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Area under Connectivity Oriented Approach（Accepted in *Chinese Landscape Architecture*）
+- **Wang, P.**, & Xu, N. Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Area under Connectivity Oriented Approach（Accepted in *Chinese Landscape Architecture*）
 - Xu, N., Zhang, X., & **Wang, P.** (2025). Public Vitality-Driven Optimization of Urban Public Space Networks—A Case Study from Nanjing, China. Smart Cities, 8(1), 18. [https://doi.org/10.3390/smartcities8010018](https://doi.org/10.3390/smartcities8010018)
 - Xu, N., **Wang, P.**, Zhang, X. (2024). Exploration on Integrated Landscape Approach for Park City Planning: A Digital Planning Method for the Coupled Development of Ecological Network and Public Space in Urban Built-up Areas. City Planning Review, 48(12):27-37. (In Chinese)
 - Xu, N., & **Wang, P.** (2024). Evolutionary Characteristics of Urban Public Space Accessibility for Vulnerable Groups from a Perspective of Temporal–Spatial Change: Evidence from Nanjing Old City, China. Land, 13(7), 998.[https://doi.org/10.3390/land13070998](https://doi.org/10.3390/land13070998)
