@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-#title                    : "WANG Pu's Academic Homepage"
-#description              : "Personal website of WANG Pu, a PhD student in landscape architecture at Soueast University . "
+title                    : "Homepage"
+description              : "WANG Pu"
 repository               : "ollehwang/wangpu.github.io"
 google_scholar_stats_use_cdn : true
 
