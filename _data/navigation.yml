@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/homepage/#about-me"
+    url: "/wangpu.github.io/#about-me"
 
   - title: "Projects"
-    url: "/homepage/#projects"
+    url: "/wangpu.github.io/#projects"
 
   - title: "Publications"
-    url: "/homepage/#publications"
+    url: "/wangpu.github.io/#publications"
 
   #- title: "Honors and Awards"
     url: "/#-honors-and-awards"
