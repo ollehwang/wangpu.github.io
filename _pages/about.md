@@ -31,11 +31,13 @@ WANG Pu is a PhD student in Landscape Aechitecture at Southeast University. Her 
 <div style="height: 30px;"></div>
 
 # PUBLICATIONS 
-- **Wang, P.**, & Xu, N. (2025). Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Area under Connectivity Oriented Approach. Chinese Landscape Architecture, 41(8):145-152. (In Chinese)
-- Xu, N., Zhang, X., & **Wang, P.** (2025). Public Vitality-Driven Optimization of Urban Public Space Networks—A Case Study from Nanjing, China. Smart Cities, 8(1), 18. [https://doi.org/10.3390/smartcities8010018](https://doi.org/10.3390/smartcities8010018)
-- Xu, N., **Wang, P.**, Zhang, X. (2024). Exploration on Integrated Landscape Approach for Park City Planning: A Digital Planning Method for the Coupled Development of Ecological Network and Public Space in Urban Built-up Areas. City Planning Review, 48(12):27-37. (In Chinese)
+- **Wang, P.**, & Xu, N. (2025). Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Area under Connectivity Oriented Approach. Chinese Landscape Architecture, 41(8):145-152.
+- Xu, N., **Wang, P.**, Zhang, X. (2024). Exploration on Integrated Landscape Approach for Park City Planning: A Digital Planning Method for the Coupled Development of Ecological Network and Public Space in Urban Built-up Areas. City Planning Review, 48(12):27-37.
 - Xu, N., & **Wang, P.** (2024). Evolutionary Characteristics of Urban Public Space Accessibility for Vulnerable Groups from a Perspective of Temporal–Spatial Change: Evidence from Nanjing Old City, China. Land, 13(7), 998.[https://doi.org/10.3390/land13070998](https://doi.org/10.3390/land13070998)
+- Xu, N., Fan, C., & **Wang, P.** (2025) Evaluation of Urban Vacant Land Greening Potential Based on the Urban Heat Island Network: A Case Study of the Core Urban Area of Hangzhou [J/OL]. Landscape Architecture,1-25.[https://link.cnki.net/urlid/11.5366.s.20251223.1649.001.](https://link.cnki.net/urlid/11.5366.s.20251223.1649.001.)
+- Xu, N., Zhang, X., & **Wang, P.** (2025). Public Vitality-Driven Optimization of Urban Public Space Networks—A Case Study from Nanjing, China. Smart Cities, 8(1), 18. [https://doi.org/10.3390/smartcities8010018](https://doi.org/10.3390/smartcities8010018)
 - Xu, N., Guan, K., & **Wang, P.** (2024). Improving Access to Urban Parks Through Public Transit Optimization. Frontiers of Architectural Research, 13(3), 575-592.[https://doi.org/10.1016/j.foar.2023.12.011](https://doi.org/10.1016/j.foar.2023.12.011)
+- Xu, N., Guan, K., Hu, D., & **Wang, P.** (2026). Urban Park Accessibility for the Elderly and Its Influencing Factors from the Perspective of Equity. Land, 15(1), 141. [https://doi.org/10.3390/land15010141](https://doi.org/10.3390/land15010141)
 
 <div style="height: 30px;"></div>
 
@@ -43,6 +45,7 @@ WANG Pu is a PhD student in Landscape Aechitecture at Southeast University. Her 
 
 # PRESENTATIONS and CONFERENVES
 - *2025.09*,  **Oral Communications**, Evaluating the Functional Synergies of Urban Ecological Space and Public Space in High-Density Urban Environment, the 61st IFLA World Congress, Nantes, France.
+- *2025.10*, **Oral Communications**, Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Areas under Connectivity-oriented Approach, the 7st Academic Digital Landscape Architecture Conference, Nanjing, China.
 
 <div style="height: 30px;"></div>
 
