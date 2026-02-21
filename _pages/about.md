@@ -53,5 +53,6 @@ WANG Pu is a PhD student in Landscape Aechitecture at Southeast University. Her 
 
 # HONORS and AWARDS
 - *2023.10*  **ASLA Student Honor Award**, [Analysis and Planning Category](https://www.asla.org/2023studentawards/8324.html) — Lead Author (1/3)
+- *2025.10*  (top 10%) First Prize of Academic Excellence Scholarship
 - *2023.10*  (top 30%) Second Prize of Academic Excellence Scholarship
 - *2022.10*  (top 10%) First Prize of Academic Excellence Scholarship
