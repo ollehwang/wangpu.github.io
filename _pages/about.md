@@ -14,7 +14,7 @@ WANG Pu is a PhD student in Landscape Aechitecture at Southeast University. Her 
 <table class="edu-table">
   <tr>
     <td>Southeast University ｜ PhD Student in Landscape Architecture</td>
-    <td class="edu-right">March, 2024 – Expected 2027</td>
+    <td class="edu-right">March, 2024 – Expected 2028</td>
   </tr>
   <tr>
     <td>Southeast University ｜ Master in Landscape Architecture (transferred to PhD program)</td>
