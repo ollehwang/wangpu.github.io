@@ -34,6 +34,7 @@ WANG Pu is a PhD student in Landscape Aechitecture at Southeast University. Her 
 <a id="publications"></a>
 # PUBLICATIONS 
 - **Wang, P.**, & Xu, N. (2025). Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Area under Connectivity Oriented Approach. Chinese Landscape Architecture, 41(8):145-152.
+- Xu, N., & **Wang, P.** (2026). Rethinking the relationship between ecological conservation and urban land development: a spatial–machine learning integration approach. Habitat International, 171, 103755. [https://doi.org/10.1016/j.habitatint.2026.103755](https://doi.org/10.1016/j.habitatint.2026.103755)
 - Xu, N., **Wang, P.**, & Zhang, X. (2024). Exploration on Integrated Landscape Approach for Park City Planning: A Digital Planning Method for the Coupled Development of Ecological Network and Public Space in Urban Built-up Areas. City Planning Review, 48(12):27-37.
 - Xu, N., & **Wang, P.** (2024). Evolutionary Characteristics of Urban Public Space Accessibility for Vulnerable Groups from a Perspective of Temporal–Spatial Change: Evidence from Nanjing Old City, China. Land, 13(7), 998.[https://doi.org/10.3390/land13070998](https://doi.org/10.3390/land13070998)
 - Xu, N., Fan, C., & **Wang, P.** (2025) Evaluation of Urban Vacant Land Greening Potential Based on the Urban Heat Island Network: A Case Study of the Core Urban Area of Hangzhou [J/OL]. Landscape Architecture,1-25.[https://link.cnki.net/urlid/11.5366.s.20251223.1649.001.](https://link.cnki.net/urlid/11.5366.s.20251223.1649.001.)
