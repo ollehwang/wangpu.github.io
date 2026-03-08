@@ -74,7 +74,7 @@ WANG Pu is a PhD student in landscape architecture at Southeast University. Her 
 
 <a id="projects"></a>
 # PROJECTS
-- **Research on Coupling Optimization and Intelligent Decision-Making for Urban Ecological Networks and Public Spaces Enabled by Graph Neural Networks**. Principal Investigator (Research on Coupling Optimization and Intelligent Decision-Making for Urban Ecological Networks and Public Spaces Enabled by Graph Neural Networks)
+- **Research on Coupling Optimization and Intelligent Decision-Making for Urban Ecological Networks and Public Spaces Enabled by Graph Neural Networks**. Principal Investigator (SEU Innovation Capability Enhancement Plan for Doctoral Students)
 - **Spatio-temporal Coupling of Ecological Networks and Public Space Systems**. Principal Investigator (Graduate Research and Practice Innovation Program of Jiangsu Province)
 - Coupling Mechanism between Urban Ecological Networks and Public Space and Its Digital Planning Methods. Graduate Research Assistant (National Natural Science Foundation of China)
 - Urban Public Space Optimization Based on Accessibility. Graduate Research Assistant (National Natural Science Foundation of China)
