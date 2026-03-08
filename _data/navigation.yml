@@ -3,11 +3,11 @@ main:
   - title: "About Me"
     url: "/wangpu.github.io/#about-me"
 
-  - title: "Projects"
-    url: "/wangpu.github.io/#projects"
-
   - title: "Publications"
     url: "/wangpu.github.io/#publications"
+    
+  - title: "Projects"
+    url: "/wangpu.github.io/#projects"
 
   #- title: "Honors and Awards"
     url: "/#-honors-and-awards"
