@@ -13,7 +13,10 @@ redirect_from:
 
 <div style="height: 30px;"></div>
 
-WANG Pu is a PhD student in landscape architecture at Southeast University. Her research interests include urban ecological networks, urban vitality and the coupling mechnism of urban ecological space and public space.
+WANG Pu is a PhD student in landscape architecture at Southeast University. 
+
+My research focuses on the relationship between urban green spaces and public spaces within the urban spatial system. In many cities, green spaces not only provide ecological functions but also serve as important settings for public life and social interaction. At the same time, public spaces increasingly incorporate ecological and green elements.
+I am interested in how these green and public spaces interact within the urban spatial structure and how their spatial configuration influences accessibility, public space use, and urban vitality. More broadly, my work explores the dynamic relationship between spatial form and urban functions in cities.
 
 <div style="height: 30px;"></div>
 
