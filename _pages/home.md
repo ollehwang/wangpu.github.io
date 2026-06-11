@@ -46,13 +46,14 @@ I am particularly interested in how spatial structure influences accessibility, 
 <a id="publications"></a>
 # PUBLICATIONS 
 - **Wang, P.**, & Xu, N. (2025). Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Area under Connectivity Oriented Approach. Chinese Landscape Architecture, 41(8):145-152.(*In Chinese*)
-- Xu, N., & **Wang, P.** (2026). Rethinking the relationship between ecological conservation and urban land development: a spatial–machine learning integration approach. Habitat International, 171, 103755. [https://doi.org/10.1016/j.habitatint.2026.103755](https://doi.org/10.1016/j.habitatint.2026.103755)
+- Chen, N., **Wang, P.**, & Xu, N. (2026). Linking urban form, solar radiation exposure, and human perception at street scale: A street-view-based analysis in a high-density subtropical city. Urban Climate, 67, 102985. [DOI](https://doi.org/https://doi.org/10.1016/j.uclim.2026.102985)
+- Xu, N., & **Wang, P.** (2026). Rethinking the relationship between ecological conservation and urban land development: a spatial–machine learning integration approach. Habitat International, 171, 103755. [DOI](https://doi.org/10.1016/j.habitatint.2026.103755)
 - Xu, N., **Wang, P.**, & Zhang, X. (2024). Exploration on Integrated Landscape Approach for Park City Planning: A Digital Planning Method for the Coupled Development of Ecological Network and Public Space in Urban Built-up Areas. City Planning Review, 48(12):27-37.(*In Chinese*)
-- Xu, N., & **Wang, P.** (2024). Evolutionary Characteristics of Urban Public Space Accessibility for Vulnerable Groups from a Perspective of Temporal–Spatial Change: Evidence from Nanjing Old City, China. Land, 13(7), 998.[https://doi.org/10.3390/land13070998](https://doi.org/10.3390/land13070998)
-- Xu, N., Fan, C., & **Wang, P.** (2026) Evaluation of Urban Vacant Land Greening Potential Based on the Urban Heat Island Network: A Case Study of the Core Urban Area of Hangzhou [J/OL]. Landscape Architecture, 33(04):91-101. (*In Chinese*)
-- Xu, N., Zhang, X., & **Wang, P.** (2025). Public Vitality-Driven Optimization of Urban Public Space Networks—A Case Study from Nanjing, China. Smart Cities, 8(1), 18. [https://doi.org/10.3390/smartcities8010018](https://doi.org/10.3390/smartcities8010018)
-- Xu, N., Guan, K., & **Wang, P.** (2024). Improving Access to Urban Parks Through Public Transit Optimization. Frontiers of Architectural Research, 13(3), 575-592.[https://doi.org/10.1016/j.foar.2023.12.011](https://doi.org/10.1016/j.foar.2023.12.011)
-- Xu, N., Guan, K., Hu, D., & **Wang, P.** (2026). Urban Park Accessibility for the Elderly and Its Influencing Factors from the Perspective of Equity. Land, 15(1), 141. [https://doi.org/10.3390/land15010141](https://doi.org/10.3390/land15010141)
+- Xu, N., & **Wang, P.** (2024). Evolutionary Characteristics of Urban Public Space Accessibility for Vulnerable Groups from a Perspective of Temporal–Spatial Change: Evidence from Nanjing Old City, China. Land, 13(7), 998.[DOI](https://doi.org/10.3390/land13070998)
+- Xu, N., Fan, C., & **Wang, P.** (2026) Evaluation of Urban Vacant Land Greening Potential Based on the Urban Heat Island Network: A Case Study of the Core Urban Area of Hangzhou. Landscape Architecture, 33(04):91-101. (*In Chinese*)
+- Xu, N., Zhang, X., & **Wang, P.** (2025). Public Vitality-Driven Optimization of Urban Public Space Networks—A Case Study from Nanjing, China. Smart Cities, 8(1), 18. [DOI](https://doi.org/10.3390/smartcities8010018)
+- Xu, N., Guan, K., & **Wang, P.** (2024). Improving Access to Urban Parks Through Public Transit Optimization. Frontiers of Architectural Research, 13(3), 575-592.[DOI](https://doi.org/10.1016/j.foar.2023.12.011)
+- Xu, N., Guan, K., Hu, D., & **Wang, P.** (2026). Urban Park Accessibility for the Elderly and Its Influencing Factors from the Perspective of Equity. Land, 15(1), 141. [DOI](https://doi.org/10.3390/land15010141)
 
 <div style="height: 30px;"></div>
 
