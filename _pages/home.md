@@ -46,7 +46,8 @@ I am particularly interested in how spatial structure influences accessibility, 
 <a id="publications"></a>
 # PUBLICATIONS 
 - **Wang, P.**, & Xu, N. (2025). Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Area under Connectivity Oriented Approach. Chinese Landscape Architecture, 41(8):145-152.(*In Chinese*)
-- Chen, N., **Wang, P.**, & Xu, N. (2026). Linking urban form, solar radiation exposure, and human perception at street scale: A street-view-based analysis in a high-density subtropical city. Urban Climate, 67, 102985. [DOI](https://doi.org/https://doi.org/10.1016/j.uclim.2026.102985)
+- Hao, J., **Wang, P.**, & Xu, N. (2026). Unraveling the mechanism linking urban park landscapes to public sentiment: The mediating role of perceived sensory dimensions revealed by large language models. Habitat International, 178, 103994.[DOI](https://doi.org/10.1016/j.habitatint.2026.103994)
+- Chen, N., **Wang, P.**, & Xu, N. (2026). Linking urban form, solar radiation exposure, and human perception at street scale: A street-view-based analysis in a high-density subtropical city. Urban Climate, 67, 102985. [DOI](https://doi.org/10.1016/j.uclim.2026.102985)
 - Hao, J., **Wang, P.**, Chen, N., & Xu, N. (2026). Integrating LLM Sentiment Analysis and SHAP Interpretability: Public Preference Assessment in Urban Parks. Journal of Digital Landscape Architecture, 119-129.
 - Xu, N., & **Wang, P.** (2026). Rethinking the relationship between ecological conservation and urban land development: a spatial–machine learning integration approach. Habitat International, 171, 103755. [DOI](https://doi.org/10.1016/j.habitatint.2026.103755)
 - Xu, N., **Wang, P.**, & Zhang, X. (2024). Exploration on Integrated Landscape Approach for Park City Planning: A Digital Planning Method for the Coupled Development of Ecological Network and Public Space in Urban Built-up Areas. City Planning Review, 48(12):27-37.(*In Chinese*)
@@ -62,8 +63,10 @@ I am particularly interested in how spatial structure influences accessibility, 
 <div style="height: 30px;"></div>
 
 # PRESENTATIONS and CONFERENVES
-- *2025.09*,  **Oral Communications**, Evaluating the Functional Synergies of Urban Ecological Space and Public Space in High-Density Urban Environment, the 61st IFLA World Congress, Nantes, France.
+- *2026.09*,  **Oral Communications**, Urban vitality dynamics and spatial patterns: A temporal convolutional network approach, ISUF 2026, Santiago, Chile.
 - *2025.10*, **Oral Communications**, Synergistic Optimization of Ecological Networks and Public Spaces in Urban Built-up Areas under Connectivity-oriented Approach, the 7st Academic Digital Landscape Architecture Conference, Nanjing, China.
+- *2025.09*,  **Oral Communications**, Evaluating the Functional Synergies of Urban Ecological Space and Public Space in High-Density Urban Environment, the 61st IFLA World Congress, Nantes, France.
+
 
 <div style="height: 30px;"></div>
 
